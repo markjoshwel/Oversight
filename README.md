@@ -39,5 +39,6 @@ alongside this, there is also:
   - search engine for all stored messages
   - listing main and subsystem logs
 
-**at no stage** does the LLM respond on my behalf. any uncertainty in triaging
-will forward a summary or notice for the user to decide with context and reply to
+**at no stage** does the LLM respond on the users behalf.
+any uncertainty in triaging will forward a summary or notice
+for the user to decide with context and reply to
