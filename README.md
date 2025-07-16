@@ -40,4 +40,4 @@ alongside this, there is also:
   - listing main and subsystem logs
 
 **at no stage** does the LLM respond on my behalf. any uncertainty in triaging
-will go through for the user to review.
+will forward a summary or notice for the user to decide with context and reply to
